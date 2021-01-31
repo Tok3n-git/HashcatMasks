@@ -1,0 +1,2 @@
+# HashcatMasks
+Masks for Hashcat
